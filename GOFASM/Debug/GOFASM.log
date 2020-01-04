@@ -1,0 +1,3 @@
+﻿  Assembling asmgol.asm...
+asmgol.asm(4): error A2006: undefined symbol : rax
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\asmgol.obj" /W3 /errorReport:prompt  /Taasmgol.asm" exited with code 1.

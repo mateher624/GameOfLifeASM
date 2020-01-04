@@ -1,0 +1,7 @@
+﻿  Assembling asmgol.asm...
+asmgol.asm(91): warning A6004: procedure argument or local not referenced : a
+asmgol.asm(91): warning A6004: procedure argument or local not referenced : b
+asmgol.asm(91): warning A6004: procedure argument or local not referenced : c
+asmgol.asm(91): warning A6004: procedure argument or local not referenced : d
+  GOFASM.vcxproj -> C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\x64\Debug\DLL_ASM.dll
+  GOFASM.vcxproj -> C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\x64\Debug\DLL_ASM.pdb (Full PDB)

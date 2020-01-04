@@ -1,0 +1,12 @@
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\Mateusz\Source\Repos\Asembler\Projekt\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\obj\Debug\GameOfLife.pdb
+C:\Users\Mateusz\Source\Repos\Asembler\JA_M.Herjan_GameOfLife\Zrodla\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
